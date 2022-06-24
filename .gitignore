@@ -1,0 +1,12 @@
+.DS_Store
+MyData/
+MyData_2/
+__pycache__/
+analysis.ipynb
+config.py
+history.py
+main.py
+mood_intro.ipynb
+output/
+output_2/
+setup_exploration.ipynb
